@@ -12,8 +12,8 @@ The script demonstrates **real-world web scraping techniques** including random 
 - Implements **retry logic** for failed requests  
 - Adds **random delays** to simulate human browsing  
 - Cleans and encodes text properly (removes `Â£` and similar issues)  
-- Exports data to **Excel (output.xlsx)** for easy analysis  
-- Ideal for portfolio and learning purposes  
+- Exports data to **CSV (UTF-8)** **Excel (output.xlsx)**
+
 
 ---
 
